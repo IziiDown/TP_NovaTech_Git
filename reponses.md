@@ -35,3 +35,10 @@ Partie 5 - Annuler correctement
   - Correction de bug mineur : v1.0.1
   - Nouvelle fonctionnalité compatible : v1.1.0
   - Refonte majeure incompatible : v2.0.0
+
+## Partie 9 - Fichiers à ne pas versionner
+
+### Mission 13 : Configuration des exclusions
+- Fichier créé : .gitignore
+- Règles configurées : debug.log, cache/, .env
+- Vérification : Les fichiers ignorés n'apparaissent plus dans git status.
